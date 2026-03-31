@@ -1,4 +1,4 @@
-# htwd-se-example-project
+
 # Beispielprojekt
 
 Ein erstes Projekt für die Praktika im Fach Software Engineering.
